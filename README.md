@@ -3,6 +3,7 @@
 
 Um diorama interativo 3D de vila, desenvolvido em **Python** utilizando **Py5Script** (p5.js). 
 O cenário consiste em uma vila habitada por um coelhinho, um riacho com peixes, vegetação interativa e um ciclo dinâmico de iluminação.
+Link para a Vila 3D: https://esperanc.github.io/Py5Script/view.html?sketch=https://raw.githubusercontent.com/carolinafernandezds/Trabalho_Final_CG_Carolina_Falcao/refs/heads/main/vilinha_3d.py
 
 ## 🎮 Como Jogar / Interagir
 
